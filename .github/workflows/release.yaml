@@ -39,7 +39,7 @@ jobs:
       
       - name: Commit files
         run: |
-          git config --global user.name 'simongino'
+          git config --global user.name 'wendao-liu'
           git config --global user.email 'rwjeek@gmail.com'
           git add appcast.json
           git checkout -b temp-branch

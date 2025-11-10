@@ -14,7 +14,7 @@ def update_appcast(version, desc):
         'version': version,
         'desc': desc,
         'sha256': file_hash,
-        'url': f'https://github.com/simongino/bob-plugin-qwen-translator/releases/download/v{version}/{release_file.name}',
+        'url': f'https://github.com/wendao-liu/bob-plugin-qwen-translator/releases/download/v{version}/{release_file.name}',
         'minBobVersion': '0.5.0'
     }
     appcast_file = Path('appcast.json')
@@ -22,7 +22,7 @@ def update_appcast(version, desc):
         with open(appcast_file, 'r') as f:
             appcast = json.load(f)
     else:
-        appcast = dict(identifier='simongino.qwen.translator', versions=[])
+        appcast = dict(identifier='wendao-liu.qwen.translator', versions=[])
     appcast['versions'].insert(0, version_info)
     with open(appcast_file, 'w') as f:
         json.dump(appcast, f, ensure_ascii=False, indent=2)

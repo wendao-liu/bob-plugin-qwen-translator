@@ -1,20 +1,20 @@
 <h4 align="right">
-  <strong>简体中文</strong> | <a href="https://github.com/simongino/bob-plugin-qwen-translator/blob/main/docs/README_EN.md">English</a>
+  <strong>简体中文</strong> | <a href="https://github.com/wendao-liu/bob-plugin-qwen-translator/blob/main/docs/README_EN.md">English</a>
 </h4>
 
 <div>
   <h1 align="center">Qwen Translator Bob Plugin</h1>
   <p align="center">
-    <a href="https://github.com/simongino/bob-plugin-qwen-translator/releases" target="_blank">
-        <img src="https://github.com/simongino/bob-plugin-qwen-translator/actions/workflows/release.yaml/badge.svg" alt="release">
+    <a href="https://github.com/wendao-liu/bob-plugin-qwen-translator/releases" target="_blank">
+        <img src="https://github.com/wendao-liu/bob-plugin-qwen-translator/actions/workflows/release.yaml/badge.svg" alt="release">
     </a>
-    <a href="https://github.com/simongino/bob-plugin-qwen-translator/releases">
-        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/simongino/bob-plugin-qwen-translator?style=flat">
+    <a href="https://github.com/wendao-liu/bob-plugin-qwen-translator/releases">
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wendao-liu/bob-plugin-qwen-translator?style=flat">
     </a>
-    <a href="https://github.com/simongino/bob-plugin-qwen-translator/releases">
+    <a href="https://github.com/wendao-liu/bob-plugin-qwen-translator/releases">
         <img alt="GitHub Repo stars" src="https://img.shields.io/badge/qwen-bob-orange?style=flat">
     </a>
-    <a href="https://github.com/simongino/bob-plugin-qwen-translator/releases">
+    <a href="https://github.com/wendao-liu/bob-plugin-qwen-translator/releases">
         <img alt="GitHub Repo stars" src="https://img.shields.io/badge/langurage-JavaScript-brightgreen?style=flat&color=blue">
     </a>
   </p>
@@ -59,7 +59,7 @@
    - 社区版要求版本 >= 0.50
    - 商店版完整支持所有功能
 
-2. 下载插件: [qwen-translator.bobplugin](https://github.com/simongino/bob-plugin-qwen-translator/releases/latest)
+2. 下载插件: [qwen-translator.bobplugin](https://github.com/wendao-liu/bob-plugin-qwen-translator/releases/latest)
 
 3. 安装插件：双击下载的 .bobplugin 文件
 

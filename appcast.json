@@ -2,6 +2,13 @@
   "identifier": "wendao-liu.qwen.translator",
   "versions": [
     {
+      "version": "0.1.3",
+      "desc": "feat: 调试构建过程",
+      "sha256": "61a1b4ee1f5a444d39f123ac125f903681f10f276a8656d8c0d126e440cfbfaf",
+      "url": "https://github.com/wendao-liu/bob-plugin-qwen-translator/releases/download/v0.1.3/qwen-translator-0.1.3.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.1.2",
       "desc": "feat: 添加自定义API URL和Path支持",
       "sha256": "56f80892aafb46f5f9a024e74849baa6d07bc0a3e994a0f0529141a8a174a403",
